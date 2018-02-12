@@ -145,6 +145,7 @@ contract ObirumCrowdsale{
         reward = token(_token);
     }
 
+
     /**
      * @dev Throws if called by any account other than the owner.
      */
